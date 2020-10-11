@@ -1,0 +1,7 @@
+1.LCS = https://leetcode.com/problems/longest-common-subsequence/
+2.LPS = https://leetcode.com/problems/longest-palindromic-subsequence/submissions/
+3.Minimum Insertion Steps to Make a String Palindrome = https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4.
+5.
+6.
+7.

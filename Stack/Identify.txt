@@ -1,0 +1,22 @@
+STACK 
+->bruteforce means O(n^2)i.e. two for loop as 
+EG,   for(int i=0;i<n;i++)
+      for(int j=0;j<n;j++)
+
+Identification-
+->if j depends on i as then we can give better solution than bruteforce and it is to use stack on that questions. 
+EG,  for(int i=0;i<n;i++)
+      for(int j=i;j<n;j++)
+
+#########Applications#############
+a) A parentheses balancing program
+b) Tracking of local variables at run time
+c) Compiler Syntax Analyzer
+
+#########extra points##########
+1.data structure would you mostly likely see in a non recursive implementation of a recursive algorithm
+2.Stack data structure resembles the serial access memory.
+3.The function Push(S,X) pushes the value X in the stack S.
+4.LIFO used to implement recursion. 
+
+  

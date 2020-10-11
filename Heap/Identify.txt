@@ -1,0 +1,29 @@
+*************INDENTIFICATION***********
+1.K
+2.smallest\largest is given
+NOTE-
+1.[k+smallest,lowest],we make max heap
+2.[k+largest,greatest,top],we make min heap
+3.closest-you should choose by making suitable heap
+
+*************types***********************
+1.max heap =max element at top
+2.MIN heap=min element at top
+
+**************syntax****************
+1.max heap
+PriorityQueue<Integer> pQueue=   new PriorityQueue<Integer>(Collections.reverseOrder()); 
+
+2.min heap
+ PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>(); 
+
+  
+WITH PAIR
+1.max heap
+priority_queue<pair<int,int>> mxp;
+2.min heap
+typedef pair<int,int> pi; 
+priority queue<pi,vector<pi>,greater<pi>> mnp;
+
+Note 1:
+In sorting time complexity is O(nlogn) by mergesort to decrease it to O(nlogk) we use heap. 
