@@ -1,5 +1,9 @@
 # Dalamoon
-- Running c++ in vs code
+- Running c++ in vs code\
 `g++ hello.cpp`\
 `g++ -o cool.exe hello.cpp`\
-`./cool`
+`./cool`\
+
+- Running java in vs code\
+`javac hello.java`\
+`java hello`
