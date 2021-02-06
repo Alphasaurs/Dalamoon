@@ -6,4 +6,4 @@
 
 - Running java in vs code\
 `javac hello.java`\
-`java hello`
+`java hello`\
